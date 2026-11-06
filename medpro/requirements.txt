@@ -1,0 +1,9 @@
+tensorflow>=2.16,<3
+django>=4.2
+opencv-python-headless
+numpy
+requests
+h5py
+scikit-learn
+xgboost
+joblib
